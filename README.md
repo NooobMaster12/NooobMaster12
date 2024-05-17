@@ -1,6 +1,6 @@
 Olá eu sou a Isaque Abraão, programador fullstack!
 
-- 🔭 Atualmente trabalhando como desenvolvedor wordpress
+- 🔭 Atualmente trabalhando como desenvolvedor.
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NooobMaster12&show_icons=true&theme=radical)
  
