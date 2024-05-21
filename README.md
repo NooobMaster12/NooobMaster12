@@ -2,7 +2,7 @@ Olá eu sou a Isaque Abraão, programador fullstack!
 
 - 🔭 Atualmente trabalhando como desenvolvedor.
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NooobMaster12&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueCeo&show_icons=true&theme=radical)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,9 +18,9 @@ Olá eu sou a Isaque Abraão, programador fullstack!
 
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NooobMaster12/NooobMaster12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NooobMaster12/NooobMaster12/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NooobMaster12/NooobMaster12/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaqueCeo/IsaqueCeo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaqueCeo/IsaqueCeo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IsaqueCeo/IsaqueCeo/output/github-contribution-grid-snake.svg">
 </picture>
 
 
