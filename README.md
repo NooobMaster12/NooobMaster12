@@ -30,6 +30,11 @@ Olá eu sou a Isaque Abraão, programador fullstack!
 </picture>
 
 
+<!-- GIF -->
+<p style="text-align: center;">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
 <div> 
   <a href="https://www.instagram.com/isaque_abr_sousa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isaqueabraaoesousa0000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
